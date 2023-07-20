@@ -7,11 +7,11 @@
 	
 ### 1.1 Full Name
 
-PRVD OASIS Open Project 
+PRVD Project 
 
 ### 1.2 Short Name
 
-prvd-oasis
+prvd
 
 ## 2. Abstract
 
@@ -19,13 +19,11 @@ PRVD advances a leading production-grade reference implementation of the [Baseli
 
 ## 3. Statement of Purpose
 
-PRVD, an OASIS Open Project, promotes the development and adoption of the application programming interfaces (APIs), data models and binary runtimes for the Baseline Protocol, based on the Provide Stack components being contributed to the project. Various components of the Provide Stack are referenced in the published draft standard specifications of the Baseline Protocol.
+PRVD promotes the development and adoption of the application programming interfaces (APIs), data models and binary runtimes for the Baseline Protocol, based on the Provide Stack components being contributed to the project. Various components of the Provide Stack are referenced in the published draft standard specifications of the Baseline Protocol.
 
 Permissionless validators running the PRVD Stack achieve network consensus on cryptographic proofs which have been generated and deposited by one organization and propagated to interested counterparties. When recursive zero-knowledge proofs are deposited by organizations using the stack, validators assert and attest to various states and propose blocks containing zk-rollup proofs for deposit on EMV-compliant networks.
 
 As more and more organizations depend on the Provide Stack in their everyday production environments, it's clear that the work should not be controlled by one company. That's why its creator, Provide Technologies Inc., is contributing the stack to the PRVD project, where it can be governed and maintained by the open community for the public good.
-
-Like the Baseline Protocol itself, the PRVD project operates under the OASIS Open process, which ensures the transparency and operational integrity necessary for fostering adoption and a thriving community of innovators.
 
 PRVD embodies the ethos of public blockchain and decentralized business networks manifest in global commerce for the benefit of humanity.
 
