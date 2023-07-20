@@ -81,7 +81,7 @@ PRVD scope includes the following functions:
 
 ## 7. Repositories and Licenses
 
-As of January 2022, the following microservices comprise the Provide Stack and will be contributed to the Open Project under an Apache 2.0 License:
+As of January 2022, the following microservices comprise the Provide Stack and will be contributed to the project under an Apache 2.0 License:
 
 - Baseline (https://github.com/provideplatform/baseline)
 - Ident (https://github.com/provideplatform/ident)
